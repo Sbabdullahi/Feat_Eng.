@@ -1,2 +1,3 @@
 # Feat_Eng.
 This simple code will automatically read the multiple video frames in comma separated value format to extract the desired features. The function inside "Read_All" will automatically read the multiple csv files within the loop. The function "Feature_Engineering" will automatically extract the desired features and save it as .mat files. The sample of the data set is provided inside the zip folder "SIMULATE".
+The requisites: It is provided with two notepad files viz; (1) NameListP500.txt which provides the name and number of folder(s) "SIMULATE" that accomodate the .csv files. (2) NameList500.txt which provides the number and list of the individual files in the folder "SIMULATE"
